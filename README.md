@@ -1,24 +1,113 @@
-# 💫 About Me:
-Hi, I'm a passionate Full Stack Web Developer and a continuous learner currently pursuing my journey as a student in technology and software development. I have hands-on experience in building web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js), along with strong programming knowledge in Java, C, Python, and JavaScript.<br><br>I also have a solid understanding of Data Structures and Algorithms (DSA), which helps me approach problem-solving efficiently and write optimized code. Beyond web development, I am highly interested in Machine Learning, Deep Learning, and Generative AI, and I enjoy learning how intelligent systems can be integrated into modern applications.<br><br>I am currently focused on learning, building real-world projects, and continuously improving my skills through practical experience. My goal is to grow as a developer by creating innovative, scalable, and impactful solutions while exploring new technologies every day.
+# Hi there! 👋 I'm Sayan Nandi
 
+![Profile Banner](https://via.placeholder.com/1200x280/0A66C2/FFFFFF?text=Passionate+Full-Stack+%26+Cloud+Enthusiast)  
+*(Replace the link above with your own banner image for a clean professional look)*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayandip-kundu-1b4025285/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sayandip98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sayandip98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sayandip98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Welcome to my GitHub profile!** I'm a passionate 3rd-year Computer Science Engineering student at **Swami Vivekananda Institute of Science and Technology**, with a strong interest in full-stack development and cloud technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sayandip98&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📚 Education
+
+**B.Tech in Computer Science and Engineering**  
+Swami Vivekananda Institute of Science and Technology  
+*Currently in 3rd Year*
+
+---
+
+## 🎯 Career Goals
+
+- Become a proficient full-stack developer  
+- Master cloud computing technologies  
+- Contribute to open-source projects  
+- Explore AI and machine learning applications  
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=8" />
+</p>
+
+### Web Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap&perline=8" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=6" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker,linux,figma&perline=8" />
+</p>
+
+### Currently Learning
+- **Database Systems**  
+- **Advanced Data Structures & Algorithms**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=**YOUR_GITHUB_USERNAME**&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_GITHUB_USERNAME**&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Projects & Showcase
+
+### Featured Projects
+
+- **Project 1: Full-stack E-commerce**  
+  *Node.js, MongoDB, React* — Complete online shopping platform with payment integration
+
+- **Project 2: Cloud Deployment Toolkit**  
+  *AWS, Docker, CI/CD* — Automated deployment pipeline for microservices
+
+- **Project 3: Data Visualization Dashboard**  
+  *D3.js, React, Express* — Real-time analytics dashboard with interactive charts
+
+**🔗 Live Demo** • **More projects** → Check out my [Repositories](https://github.com/**YOUR_GITHUB_USERNAME**?tab=repositories)
+
+---
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 😄 Fun Fact
+
+A semicolon can make or break my whole day 😄
+
+---
+
+**Made with ❤️ in Kolkata, India**
+
+*Last updated: April 2026*
