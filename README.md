@@ -36,7 +36,7 @@ I’ve built numerous real-world projects — from full-stack clones to interact
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=8" />
 
 **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" />
 
 **Machine Learning & AI**  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn&perline=8" />
@@ -75,7 +75,8 @@ I’ve built numerous real-world projects — from full-stack clones to interact
 
 - **LinkedIn**: [Sayandip Kundu](https://www.linkedin.com/in/sayandip-kundu-1b4025285/)  
 - **GitHub**: [@Sayandip98](https://github.com/Sayandip98)  
-- **Email**: sayandipkundu.work@gmail.com (or your preferred email)
+- **Email**: sayandipkundunirisha1@gmail.com
+
 
 Feel free to reach out for collaborations, project discussions, or just to say hi! ✨
 
