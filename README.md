@@ -75,7 +75,7 @@ I’ve built numerous real-world projects — from full-stack clones to interact
 
 - **LinkedIn**: [Sayandip Kundu](https://www.linkedin.com/in/sayandip-kundu-1b4025285/)  
 - **GitHub**: [@Sayandip98](https://github.com/Sayandip98)  
-- **Portfolio**: [@Sayandip98](https://personalportfolio-azure-psi.vercel.app/)
+- **Portfolio**: [Sayandip](https://personalportfolio-azure-psi.vercel.app/)
 - **Email**: sayandipkundunirisha1@gmail.com
 
 
