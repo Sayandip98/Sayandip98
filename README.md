@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sayandip Kundu</h1>
-  <h3>Full-Stack Developer (MERN) | Data Structures & Algorithms (Java) | Learning Machine Learning, Deep Learning & Generative AI</h3>
+  <h3>Full-Stack Developer (MERN) | Data Structures & Algorithms | Machine Learning & Generative AI</h3>
   
   <p>
     3rd Year B.Tech Computer Science & Engineering Student<br>
@@ -16,15 +16,13 @@
 
 ### About Me
 
-Passionate and detail-oriented full-stack developer with strong expertise in the **MERN stack**. Proficient in solving complex problems through **Data Structures and Algorithms** (implemented in Java). 
+Passionate and detail-oriented full-stack developer with strong expertise in the **MERN stack**. Proficient in solving complex problems through **Data Structures and Algorithms** (implemented in Java). Actively building production-ready web applications and exploring **Machine Learning, Deep Learning, and Generative AI** using Python.
 
-I am currently in the **learning stage** of **Machine Learning, Deep Learning, and Generative AI** using Python and actively building hands-on projects to strengthen my understanding.
+I have developed multiple end-to-end projects that demonstrate clean architecture, scalability, and exceptional user experience. Currently focused on advancing my skills in system design, cloud deployment, and AI-powered solutions.
 
-I have developed multiple end-to-end web applications that demonstrate clean architecture, scalability, and excellent user experience. Always eager to learn new technologies and improve my skills.
-
-- 🔭 Currently working on advanced MERN applications and small AI/ML practice projects
-- 🌱 Deepening knowledge in Machine Learning, Deep Learning architectures, and Generative AI
-- 💼 Open to internships, collaborations, and opportunities in full-stack development
+- 🔭 Currently building advanced MERN applications with AI integration
+- 🌱 Deepening knowledge in Deep Learning architectures and MLOps
+- 💼 Open to internships, collaborations, and full-time opportunities in full-stack development and AI/ML
 
 ---
 
@@ -47,7 +45,7 @@ Swami Vivekananda Institute of Science and Technology, Kolkata
 **Backend & Database**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" />
 
-**Machine Learning & AI** *(Currently Learning)*  
+**Machine Learning & AI**  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn,opencv&perline=8" />
 
 **Tools & Platforms**  
@@ -96,7 +94,7 @@ Explore all repositories → [GitHub Repositories](https://github.com/Sayandip98
 - **GitHub**: [@Sayandip98](https://github.com/Sayandip98)
 - **Email**: sayandipkundu.work@gmail.com
 
-I am always open to discussing new opportunities, project collaborations, or sharing knowledge in web development.
+I am always open to discussing new opportunities, project collaborations, or sharing knowledge in web development and AI/ML.
 
 ---
 
