@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://github.com/Sayandip98.png" width="150" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Hey+I'm+Sayandip+Kundu+%F0%9F%91%8B;Full+Stack+Developer;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -28,10 +29,10 @@
 I'm a passionate **Computer Science Engineering student** who loves building high-quality software and intelligent systems. I specialize in full-stack web development with the **MERN stack** and am actively exploring the world of **Machine Learning, Deep Learning, and Generative AI**.
 
 ```yaml
-focus     : Full Stack Development (MERN) · Machine Learning · Generative AI
-dsa       : Data Structures & Algorithms — solved in Java
-strengths : Clean Code · Scalable Architecture · Problem Solving
-available : Open to internships, freelance & open-source collaborations
+Pocus     : Full Stack Development (MERN) · Machine Learning · Generative AI
+DSA       : Data Structures & Algorithms — solved in Java
+Strengths : Clean Code · Scalable Architecture · Problem Solving
+Available : Open to internships, freelance & open-source collaborations
 ```
 
 - 🔭 Currently building advanced **MERN applications** and **AI-powered projects**
@@ -62,6 +63,7 @@ available : Open to internships, freelance & open-source collaborations
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Machine Learning & AI
@@ -78,6 +80,8 @@ available : Open to internships, freelance & open-source collaborations
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
