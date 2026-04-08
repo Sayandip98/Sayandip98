@@ -10,12 +10,6 @@
 <img src="https://img.shields.io/badge/ML%20%26%20AI%20Enthusiast-16A34A?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to%20Collaborate-15803D?style=for-the-badge&logoColor=white" />
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayandip-kundu-1b4025285/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayandip98)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayandipkundunirisha1@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sayandip98&color=22C55E&style=for-the-badge&label=Profile+Views)](https://github.com/Sayandip98)
 
 </div>
 
@@ -145,16 +139,46 @@ Available : Open to internships, freelance & open-source collaborations
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayandip98&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sayandip98&theme=radical&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="180" alt="GitHub Streak" />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sayandip98&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=Sayandip98&theme=radical&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=22C55E&sideLabels=22C55E&dates=ffffff" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&text_color=ffffff" height="160" alt="Top Languages" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip98&theme=react-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff&bg_color=0D1117" alt="Contribution Graph" />
+
+  <!-- Top Languages (Improved) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&layout=compact&theme=radical&hide_border=true&hide_title=false&card_width=420&langs_count=10&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&text_color=ffffff" 
+    height="180" 
+    alt="Top Languages" 
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- Contribution Activity Graph (Already Good) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip98&theme=react-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff&bg_color=0D1117" 
+    alt="Contribution Graph" 
+  />
+
 </div>
 
 ---
