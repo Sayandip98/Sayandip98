@@ -1,7 +1,9 @@
 <div align="center">
 
 <h1>
-  <img src="https://github.com/Sayandip98.png" width="150" style="border-radius:50%" />
+  <img src="https://github.com/Sayandip98.png" width="150" style="height
+    :50px,width:50px,border-radius:50%" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Hey+I'm+Sayandip+Kundu+%F0%9F%91%8B;Full+Stack+Developer;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
@@ -29,7 +31,7 @@
 I'm a passionate **Computer Science Engineering student** who loves building high-quality software and intelligent systems. I specialize in full-stack web development with the **MERN stack** and am actively exploring the world of **Machine Learning, Deep Learning, and Generative AI**.
 
 ```yaml
-Pocus     : Full Stack Development (MERN) · Machine Learning · Generative AI
+Focus     : Full Stack Development (MERN) · Machine Learning · Generative AI
 DSA       : Data Structures & Algorithms — solved in Java
 Strengths : Clean Code · Scalable Architecture · Problem Solving
 Available : Open to internships, freelance & open-source collaborations
