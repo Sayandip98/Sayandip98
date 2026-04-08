@@ -61,12 +61,12 @@ I’ve built numerous real-world projects — from full-stack clones to interact
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayandip98&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayandip98&theme=radical&hide_border=true" alt="Streak Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayandip98&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayandip98&theme=radical&hide_border=true" alt="" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&layout=compact&theme=radical&hide_border=true" alt="" />
 </div>
 
 ---
