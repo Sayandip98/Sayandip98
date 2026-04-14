@@ -141,11 +141,11 @@ Available : Open to internships, freelance & open-source collaborations
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img 
+ <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=Sayandip98&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff" 
     height="180" 
     alt="GitHub Stats" 
-  />
+  /> -->
 
   <!-- GitHub Streak -->
   <img 
@@ -161,11 +161,11 @@ Available : Open to internships, freelance & open-source collaborations
 <div align="center">
 
   <!-- Top Languages (Improved) -->
-  <img 
+<!--  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip98&layout=compact&theme=radical&hide_border=true&hide_title=false&card_width=420&langs_count=10&cache_seconds=86400&bg_color=0D1117&title_color=22C55E&text_color=ffffff" 
     height="180" 
     alt="Top Languages" 
-  />
+  /> -->
 
 </div>
 
@@ -181,13 +181,12 @@ Available : Open to internships, freelance & open-source collaborations
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayandip98&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
