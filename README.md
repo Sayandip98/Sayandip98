@@ -198,7 +198,7 @@ Available : Open to internships, freelance & open-source collaborations
 |----------|------|
 | 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/sayandip-kundu-1b4025285/) |
 | 🐙 GitHub | [@Sayandip98](https://github.com/Sayandip98) |
-| 📧 Email | [sayandipkundu.work@gmail.com](mailto:sayandipkundunirisha1@gmail.com) |
+| 📧 Email | [sayandipkundunirisha1@gmail.com](mailto:sayandipkundunirisha1@gmail.com) |
 
 *Feel free to reach out for collaborations, project discussions, or just to say hi!* ✨
 
